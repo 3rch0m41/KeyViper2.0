@@ -46,10 +46,10 @@ count = 0
 keys = [] 
 microphone_time = 10
 
-email_addr  = "inferis97@gmail.com"
-password = "Omega6alfA"
+email_addr  = "" # insert sender address
+password = "" # password of the sender mail
 
-toaddr = "malinigiulio97@gmail.com"
+toaddr = "" # receiver mail address
 
 key = KeyGen()
 
